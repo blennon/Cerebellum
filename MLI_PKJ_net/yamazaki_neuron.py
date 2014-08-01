@@ -1,3 +1,8 @@
+'''
+This code is used only for calibration and testing to ensure the neuron models implemented using BRIAN simulator
+have the same dynamics as those implemented by Yamazaki and Nagao (2012), which we base our model off of
+'''
+
 from pylab import *
 
 class YamazakiNeuron(object):
