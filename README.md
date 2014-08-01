@@ -6,6 +6,7 @@ The code is written entirely in Python and depends on the following libraries:
 - Matplotlib http://matplotlib.org/
 - Pandas http://pandas.pydata.org/
 - Brian Simulator http://www.briansimulator.org/
+- Plot.ly python bindings: http://plot.ly
 
 A number of the experiments are carried out in iPython Notebooks http://ipython.org/ and import "pylab" to create a
 Matlab like environment by importing from Numpy, Matplotlib etc.  See this discussion for more on pylab
